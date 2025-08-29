@@ -1,0 +1,40 @@
+h1 {color: green }
+li {
+    list-style-type: decimal ;}
+table{border-collapse: collapse;}
+table, th, td {
+    border: 1px solid black;
+}
+
+.html-list{
+    list-style-type: square;
+}
+
+.css-list{
+    list-style-type: disc;
+    color:blue;
+}
+
+.center{
+    width: 100%;
+    margin: auto;
+text-align: center;
+
+}
+body{
+    color: darkmagenta;
+}
+
+.center-list{
+    width: 50%;
+    text-align: left;
+    list-style-position: inside;
+    display: inline-block;
+
+}
+
+input, label,textarea{
+    display: block;
+    margin-top: .3em;
+
+}
